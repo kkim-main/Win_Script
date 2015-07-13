@@ -1,0 +1,12 @@
+<gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend"> 
+<gs:UserList>
+<gs:User UserID="Current" CopySettingsToDefaultUserAcct="true" CopySettingsToSystemAcct="true"/></gs:UserList> 
+<gs:InputPreferences> 
+
+        <!--ko-kr--><gs:InputLanguageID Action="add" ID="0412:{A028AE76-01B1-46C2-99C4-ACD9858AE02F}{B5FE1F02-D5F2-4445-9C03-C568F23C99A1}" Default="true"/>
+		
+		<!--en-US--><gs:InputLanguageID Action="remove" ID="0409:00000409" Default="true"/>
+		
+</gs:InputPreferences>
+<!-- system locale --><gs:SystemLocale Name="ko-KR" />
+</gs:GlobalizationServices>
